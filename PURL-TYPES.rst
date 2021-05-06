@@ -114,7 +114,7 @@ Known `purl` types
 
        pkg:generic/openssl@1.1.10g
        pkg:generic/openssl@1.1.10g?download_url=https://openssl.org/source/openssl-1.1.0g.tar.gz&checksum=sha256:de4d501267da
-       pkg:generic/bitwarderl?vcs_url=git%2Bhttps://git.fsfe.org/dxtr/bitwarderl@cc55108da32
+       pkg:generic/bitwarderl?vcs_url=git%2Bhttps://git.fsfe.org/dxtr/bitwarderl%40cc55108da32
 
 
 - `github` for Github-based packages:
@@ -189,7 +189,7 @@ Known `purl` types
 
         pkg:npm/foobar@12.3.1
         pkg:npm/%40angular/animation@12.3.1
-        pkg:npm/mypackage@12.4.5?vcs_url=git://host.com/path/to/repo.git@4345abcd34343
+        pkg:npm/mypackage@12.4.5?vcs_url=git://host.com/path/to/repo.git%404345abcd34343
 
 
 - `nuget` for NuGet .NET packages:
