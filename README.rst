@@ -95,7 +95,7 @@ The defintion for each components is:
   Optional.
 
 
-Components are designed such that they for a hierarchy from the most significant
+Components are designed such that they form a hierarchy from the most significant
 on the left to the least significant components on the right.
 
 
@@ -137,6 +137,7 @@ Some `purl` examples
     pkg:rpm/opensuse/curl@7.56.1-1.1.?arch=i386&distro=opensuse-tumbleweed
 
 (NB: some checksums are truncated for brevity)
+
 
 
 Specification details
